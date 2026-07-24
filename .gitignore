@@ -1,0 +1,16 @@
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# 一時ファイル
+*.tmp
+*~
+
+# 大容量の中間素材(必要に応じてコメントアウトを外す)
+# *.psd
+# *.ai
+# *.mp4
+# *.zip
