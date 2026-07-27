@@ -16,6 +16,7 @@ KO-FI/
 ├── README.md              … このファイル(プロジェクト全体の入口)
 ├── docs/                  … チーム運用ドキュメント
 │   ├── kofi-setup.md      … Ko-fi アカウント初期設定の手順
+│   ├── image-sources.md   … 著作権フリー画像の探し方・ライセンス注意
 │   ├── team.md            … 役割分担・メンバー
 │   ├── workflow.md        … 企画〜出品までの制作フロー
 │   └── conventions.md     … 命名・管理ルール
@@ -39,6 +40,7 @@ cp -r works/_template "works/新しい作品名"
 ## リンク
 
 - [Ko-fi セットアップ手順](docs/kofi-setup.md)
+- [著作権フリー画像の探し方](docs/image-sources.md)
 - [チーム・役割分担](docs/team.md)
 - [制作フロー](docs/workflow.md)
 - [命名・管理ルール](docs/conventions.md)
