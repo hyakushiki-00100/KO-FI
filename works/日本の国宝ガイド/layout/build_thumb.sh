@@ -40,4 +40,6 @@ PY
 echo "サムネイルを書き出しています…"
 shot thumb.html    "thumb_姫路城_ja.png"
 shot thumb_en.html "thumb_Himeji_en.png"
+shot thumb_inuyama_ja.html "thumb_犬山城_ja.png"
+shot thumb_inuyama_en.html "thumb_Inuyama_en.png"
 echo "完了。出力先: works/日本の国宝ガイド/output/"

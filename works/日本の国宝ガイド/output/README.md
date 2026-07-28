@@ -53,7 +53,11 @@ KO-FI/
 | `thumb_姫路城_ja.png` | 日本語版サムネイル・1200×1200 |
 | `thumb_Himeji_en.png` | 英語版サムネイル・1200×1200 |
 | `kofi_cover.png` | Ko-fi カバー画像・1600×500 |
+| `日本の国宝ガイド_犬山城.pdf` | 日本語版・A4縦12ページ・約4.2MB |
+| `Japans-National-Treasures_Inuyama-Castle.pdf` | 英語版・A4縦12ページ・約3.2MB |
+| `thumb_犬山城_ja.png` / `thumb_Inuyama_en.png` | 犬山城サムネイル・1200×1200 |
 | `kofi_avatar.png` | Ko-fi アイコン・800×800 |
+| `kofi_shop_preview.png` | Ko-fi ショップ共有用・1200×600 |
 
 ### 作り直すには
 

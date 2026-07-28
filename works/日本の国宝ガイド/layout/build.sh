@@ -32,6 +32,8 @@ PY
 }
 
 echo "PDFを書き出しています…"
-build himeji_ja.html "日本の国宝ガイド_姫路城.pdf"
-build himeji_en.html "Japans-National-Treasures_Himeji-Castle.pdf"
+build himeji_ja.html  "日本の国宝ガイド_姫路城.pdf"
+build himeji_en.html  "Japans-National-Treasures_Himeji-Castle.pdf"
+build inuyama_ja.html "日本の国宝ガイド_犬山城.pdf"
+build inuyama_en.html "Japans-National-Treasures_Inuyama-Castle.pdf"
 echo "完了。出力先: works/日本の国宝ガイド/output/"
