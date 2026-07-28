@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================
 # Ko-fi プロフィール画像の書き出し
-#   カバー 1600×500 / アイコン 800×800
+#   カバー 1600×500 / アイコン 800×800 / ショップ共有用 1200×600(2:1)
 #
 # ⚠️ 既知の注意点(build_thumb.sh と同じ)
 #   1. Chromium は日本語を含むパスを解決できない → ASCII の一時ディレクトリを経由
@@ -38,4 +38,5 @@ PY
 echo "プロフィール画像を書き出しています…"
 shot profile_cover.html  "kofi_cover.png"  1600 500
 shot profile_avatar.html "kofi_avatar.png"  800 800
+shot shop_preview.html   "kofi_shop_preview.png" 1200 600
 echo "完了。出力先: works/日本の国宝ガイド/output/"

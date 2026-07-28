@@ -209,6 +209,67 @@ This book is licensed for your personal use. Please do not redistribute.
 
 ---
 
+## ショップ全体の設定(Shop → Setup)
+
+商品ごとではなく、**ショップ全体に一度だけ**設定する項目です。
+
+| 項目 | 設定 |
+| --- | --- |
+| **Preview image**(SNS共有用・2:1推奨) | `output/kofi_shop_preview.png`(1200×600)をアップロード |
+| Require supporter telephone number for physical shipping | ❌ しない(デジタル商品のみのため) |
+| Purchases unlock supporter-only content | ❌ しない(限定コンテンツを別途用意する場合のみ) |
+| **Your terms** | 下記の文面を貼る |
+
+### Your terms(全商品に適用される規約)
+
+```
+【商品について】
+本ショップの商品はすべてデジタルデータ(PDF)です。
+物理的な商品の発送はありません。
+
+【お届け方法】
+ご購入後、ダウンロードリンクが自動で発行されます。
+ダウンロードできない場合は、Ko-fi のメッセージからご連絡ください。
+
+【返金について】
+商品の性質上、ダウンロード後の返金は原則お受けできません。
+ファイルが破損している、内容が説明と著しく異なるなどの場合は、
+ご購入から14日以内にご連絡ください。個別に対応いたします。
+
+【ご利用条件】
+・購入者ご本人の個人利用に限ります
+・再配布・転載・商用利用・二次配布はできません
+・掲載写真の著作権は各撮影者・権利者に帰属します
+ (パブリックドメイン、CC0、CC BY のいずれか。出典は各商品の巻末に明記)
+
+【掲載情報について】
+料金・開館時間・公開状況などは制作時点の情報です。
+変動する可能性があるため、おでかけの前に各施設の公式サイトでご確認ください。
+
+---
+
+All items in this shop are digital files (PDF). Nothing is shipped physically.
+A download link is issued automatically after purchase.
+
+Due to the nature of digital goods, refunds after download are not generally
+available. If a file is damaged or differs substantially from its description,
+please contact me within 14 days of purchase.
+
+Items are licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+Photographs remain the copyright of their respective creators
+(public domain, CC0 or CC BY; sources are credited in each book).
+
+Prices and opening hours were correct at the time of writing and may change.
+Please check each site's official website before visiting.
+```
+
+> 💡 返金条件を先に明記しておくと、後々のトラブルを避けられます。
+> 「ダウンロード後は原則返金不可、ただし不備があれば個別対応」が
+> デジタル商品では一般的な線引きです。
+
+---
+
 ## 登録後の確認
 
 - [ ] **Product summary(短い要約)** を入れた ← 見落としやすい

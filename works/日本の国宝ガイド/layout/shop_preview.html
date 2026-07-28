@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>Ko-fi cover</title>
+<style>
+/* ============================================================
+   Ko-fi ショップ共有用プレビュー 1200×600(2:1)
+   ⚠️ 表示環境によって上下左右が切られる。
+      文字は中央寄りに置き、周囲に安全余白を取ること。
+   ============================================================ */
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { width:1200px; height:600px; overflow:hidden; }
+body { font-family:"IPAPGothic","IPAGothic",sans-serif; position:relative; background:#0d1015; }
+
+.photo { position:absolute; inset:0; }
+/* 絵図の天守は上部やや右にある。上寄せで切り出すと天守が画面に入る */
+.photo img { width:100%; height:100%; object-fit:cover; object-position:62% 10%; }
+
+.veil { position:absolute; inset:0;
+  background:
+    linear-gradient(to right,
+      rgba(10,12,16,.92) 0%,
+      rgba(10,12,16,.78) 42%,
+      rgba(10,12,16,.34) 70%,
+      rgba(10,12,16,.22) 100%); }
+
+/* 文字は左寄せ・中央高さ。上下100px・左120pxを安全余白とする */
+.txt { position:absolute; left:90px; top:50%; transform:translateY(-50%);
+  color:#fff; max-width:640px; }
+.rule { width:76px; height:4px; background:#e8c46a; margin-bottom:22px; }
+.title { font-size:52px; font-weight:700; letter-spacing:.08em; line-height:1.2;
+  text-shadow:0 3px 18px rgba(0,0,0,.7); }
+.en { font-size:23px; letter-spacing:.24em; margin-top:16px; opacity:.92;
+  font-family:"DejaVu Sans","Liberation Sans",sans-serif;
+  text-shadow:0 2px 12px rgba(0,0,0,.7); }
+.lead { font-size:21px; line-height:1.85; margin-top:26px; opacity:.95;
+  text-shadow:0 2px 12px rgba(0,0,0,.75); }
+</style>
+</head>
+<body>
+  <div class="photo"><img src="img/姫路城_明治初期_絵図.jpg" alt=""></div>
+  <div class="veil"></div>
+  <div class="txt">
+    <div class="rule"></div>
+    <div class="title">日本の国宝ガイド</div>
+    <div class="en">JAPAN&rsquo;S NATIONAL TREASURES</div>
+    <div class="lead">写真と歴史と、行き方まで。<br>
+      国宝をめぐるデジタルガイド。<br>
+      いまは「国宝五城」── 姫路・松本・犬山・彦根・松江。</div>
+  </div>
+</body>
+</html>
