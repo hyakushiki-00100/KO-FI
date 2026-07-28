@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" font-family="IPAPGothic, IPAGothic, sans-serif">
+  <title>狭間(さま)の種類</title>
+
+  <!-- 白漆喰の壁 -->
+  <rect x="0" y="60" width="900" height="230" fill="#f6f3ec" stroke="#d8d2c6" stroke-width="2"/>
+  <!-- 壁の陰影 -->
+  <rect x="0" y="60" width="900" height="10" fill="#e6e0d4"/>
+  <rect x="0" y="280" width="900" height="10" fill="#e6e0d4"/>
+
+  <!-- 見出し -->
+  <text x="0" y="34" font-size="26" font-weight="bold" fill="#2b2b2b">狭間(さま)の種類</text>
+  <text x="0" y="54" font-size="15" fill="#666">白漆喰の壁に開けられた、鉄砲・弓を放つための小窓。用途によって形が違う</text>
+
+  <!-- 丸狭間 -->
+  <circle cx="140" cy="165" r="34" fill="#2b2b2b"/>
+  <text x="140" y="240" font-size="19" font-weight="bold" fill="#2b2b2b" text-anchor="middle">丸狭間</text>
+  <text x="140" y="263" font-size="14" fill="#666" text-anchor="middle">鉄砲用</text>
+
+  <!-- 三角狭間 -->
+  <polygon points="360,130 397,199 323,199" fill="#2b2b2b"/>
+  <text x="360" y="240" font-size="19" font-weight="bold" fill="#2b2b2b" text-anchor="middle">三角狭間</text>
+  <text x="360" y="263" font-size="14" fill="#666" text-anchor="middle">鉄砲用</text>
+
+  <!-- 四角狭間 -->
+  <rect x="546" y="133" width="68" height="68" fill="#2b2b2b"/>
+  <text x="580" y="240" font-size="19" font-weight="bold" fill="#2b2b2b" text-anchor="middle">四角狭間</text>
+  <text x="580" y="263" font-size="14" fill="#666" text-anchor="middle">鉄砲用</text>
+
+  <!-- 矢狭間 -->
+  <rect x="770" y="112" width="44" height="110" fill="#2b2b2b"/>
+  <text x="792" y="240" font-size="19" font-weight="bold" fill="#2b2b2b" text-anchor="middle">矢狭間</text>
+  <text x="792" y="263" font-size="14" fill="#666" text-anchor="middle">弓用</text>
+
+  <!-- 仕切り線 -->
+  <line x1="686" y1="90" x2="686" y2="260" stroke="#cfc7b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+
+  <!-- 注釈 -->
+  <text x="0" y="330" font-size="15" fill="#2b2b2b">
+    <tspan font-weight="bold">丸・三角・四角</tspan>は鉄砲を構えるための小さな穴。
+    <tspan font-weight="bold">矢狭間</tspan>が縦長なのは、弓を引くのに縦の空間が要るため。
+  </text>
+  <text x="0" y="356" font-size="15" fill="#666">
+    姫路城の内曲輪には <tspan font-weight="bold" fill="#2b2b2b">997</tspan> の狭間が現存する(鉄砲狭間 844・矢狭間 153)。壁を見上げれば形の違いに気づける。
+  </text>
+  <text x="0" y="388" font-size="12" fill="#999">図:本書オリジナル</text>
+</svg>
