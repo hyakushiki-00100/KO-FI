@@ -50,11 +50,14 @@ KO-FI/
 | --- | --- |
 | `日本の国宝ガイド_姫路城.pdf` | 日本語版・A4縦11ページ・約5.2MB |
 | `Japans-National-Treasures_Himeji-Castle.pdf` | 英語版・A4縦11ページ・約4.3MB |
+| `thumb_姫路城_ja.png` | 日本語版サムネイル・1200×1200 |
+| `thumb_Himeji_en.png` | 英語版サムネイル・1200×1200 |
 
 ### 作り直すには
 
 ```bash
-bash works/日本の国宝ガイド/layout/build.sh
+bash works/日本の国宝ガイド/layout/build.sh        # PDF
+bash works/日本の国宝ガイド/layout/build_thumb.sh  # サムネイル
 ```
 
 原稿は `layout/himeji_ja.html` / `layout/himeji_en.html`、
@@ -63,3 +66,17 @@ bash works/日本の国宝ガイド/layout/build.sh
 > ⚠️ Chromium は**日本語を含むパス**の `file://` URL を解決できません。
 > `build.sh` は ASCII のみの一時ディレクトリへコピーしてから書き出す仕組みになっています。
 > 直接 chrome を叩くと1ページの空PDFになるので注意。
+
+### サムネイルについて
+
+`layout/thumb.html` / `thumb_en.html` は**シリーズ共通のテンプレート**です。
+残り4城は、次の4点を差し替えるだけで統一感のあるサムネイルが作れます。
+
+1. 写真(`img/○○城_….jpg`)
+2. 通し番号(`01` → `02` …)
+3. 城名
+4. 英名・県名
+
+> ⚠️ `--window-size` の指定どおりにレイアウト高が確保されず、下端に背景色の帯が出ます。
+> `build_thumb.sh` は縦を大きめに描画してから 1200×1200 を切り出し、
+> 帯が残っていないか自動検査しています。
