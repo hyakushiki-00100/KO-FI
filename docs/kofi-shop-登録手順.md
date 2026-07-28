@@ -30,13 +30,26 @@ GitHub の `output/` フォルダからダウンロードしておいてくだ�
 日本の国宝ガイド ― 姫路城
 ```
 
+### Product summary(短い要約)
+
+> 「Describe in a few words what your buyers will get」の欄。
+> **1行で「何が手に入るか」**を言い切る。長い説明文とは別の欄なので注意。
+
+```
+姫路城だけを掘り下げたPDFガイド(全11ページ)。歴史・建築の見方・見学ルート・アクセス・四季まで。
+```
+
 ### 価格
 ```
 500
 ```
-通貨が **JPY** になっているか確認すること。
+- 通貨が **¥ / JPY** になっているか確認すること
+- **「Allow 'Pay what you want'」はチェックを入れたままでよい**
+  - ¥500 は下限として機能し、それ以下では買えない
+  - 多めに払う人が一定数いる。Ko-fi は投げ銭文化の場なので効果がある
+  - デメリットはない
 
-### 説明文
+### 説明文(長い本文)
 ```
 日本で天守が国宝に指定されているのは、わずか5城。
 本書はそのうちの一つ「姫路城」だけを、じっくり掘り下げたデジタルガイドです。
@@ -83,12 +96,19 @@ PDF / A4縦 / 全11ページ / 約5.2MB
 Japan's National Treasures — Himeji Castle
 ```
 
+### Product summary(短い要約)
+
+```
+An 11-page PDF guide to Himeji Castle — its history, how to read the architecture, a walking route, access and the seasons.
+```
+
 ### 価格
 ```
 500
 ```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(日本語版と同じ)。
 
-### 説明文
+### 説明文(長い本文)
 ```
 Only five castle keeps in Japan are designated National Treasures.
 This guide takes one of them — Himeji — and goes deep.
@@ -136,6 +156,7 @@ himeji castle, japanese castle, national treasure, unesco world heritage, japan 
 
 ## 登録後の確認
 
+- [ ] **Product summary(短い要約)** を入れた ← 見落としやすい
 - [ ] 通貨が **JPY** になっている
 - [ ] 配信ファイル(PDF)が正しく添付されている
 - [ ] サムネイルが表示されている
