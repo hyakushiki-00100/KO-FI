@@ -41,3 +41,25 @@ KO-FI/
 > 📌 このファイルは、フォルダの場所を示すために置いています(Git は空のフォルダを
 > 記録しないため)。完成品を入れたあとも消さないでください。
 > ⚠️ 完成PDFやサムネイルが大容量になる場合は、Git に載せるか別管理にするか検討してください。
+
+---
+
+## 生成済みファイル(2026-07)
+
+| ファイル | 内容 |
+| --- | --- |
+| `日本の国宝ガイド_姫路城.pdf` | 日本語版・A4縦11ページ・約5.2MB |
+| `Japans-National-Treasures_Himeji-Castle.pdf` | 英語版・A4縦11ページ・約4.3MB |
+
+### 作り直すには
+
+```bash
+bash works/日本の国宝ガイド/layout/build.sh
+```
+
+原稿は `layout/himeji_ja.html` / `layout/himeji_en.html`、
+体裁は `layout/style.css`、掲載画像は `layout/img/`(assets からリサイズ済み)。
+
+> ⚠️ Chromium は**日本語を含むパス**の `file://` URL を解決できません。
+> `build.sh` は ASCII のみの一時ディレクトリへコピーしてから書き出す仕組みになっています。
+> 直接 chrome を叩くと1ページの空PDFになるので注意。
