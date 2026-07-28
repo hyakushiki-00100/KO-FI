@@ -52,12 +52,15 @@ KO-FI/
 | `Japans-National-Treasures_Himeji-Castle.pdf` | 英語版・A4縦11ページ・約4.3MB |
 | `thumb_姫路城_ja.png` | 日本語版サムネイル・1200×1200 |
 | `thumb_Himeji_en.png` | 英語版サムネイル・1200×1200 |
+| `kofi_cover.png` | Ko-fi カバー画像・1600×500 |
+| `kofi_avatar.png` | Ko-fi アイコン・800×800 |
 
 ### 作り直すには
 
 ```bash
 bash works/日本の国宝ガイド/layout/build.sh        # PDF
 bash works/日本の国宝ガイド/layout/build_thumb.sh  # サムネイル
+bash works/日本の国宝ガイド/layout/build_profile.sh # プロフィール画像
 ```
 
 原稿は `layout/himeji_ja.html` / `layout/himeji_en.html`、
@@ -80,3 +83,11 @@ bash works/日本の国宝ガイド/layout/build_thumb.sh  # サムネイル
 > ⚠️ `--window-size` の指定どおりにレイアウト高が確保されず、下端に背景色の帯が出ます。
 > `build_thumb.sh` は縦を大きめに描画してから 1200×1200 を切り出し、
 > 帯が残っていないか自動検査しています。
+
+### プロフィール画像について
+
+文面一式は [`docs/kofi-profile.md`](../../../docs/kofi-profile.md)。
+
+- **カバー**は表示環境で上下左右が切られるため、文字を左中央に寄せ、周囲に余白を確保
+- **アイコン**は円形に切り抜かれることがあり、50〜100pxまで縮むため**文字は入れていない**
+  (天守のシルエットで識別させる。56pxでも判別できることを確認済み)
