@@ -87,6 +87,29 @@ PDF / A4縦 / 全11ページ / 約5.2MB
 姫路城, 国宝, 日本の城, 城めぐり, 世界遺産, 日本史, 旅行ガイド, 建築, 兵庫, PDF
 ```
 
+### 購入者向けメッセージ
+
+> 「Leave a message or instructions for buyers」に**チェックを入れて**入力する欄。
+> 購入直後に表示されるため、**注意喚起とシリーズ案内を置くのに最適**。
+
+```
+ご購入ありがとうございます。
+
+PDFをダウンロードして、スマホ・タブレット・PCでお読みいただけます。
+
+【おでかけの前に】
+本書の料金・開館時間・公開状況は制作時点のものです。
+変動する可能性がありますので、姫路城の公式サイトで最新情報をご確認ください。
+https://www.city.himeji.lg.jp/castle/
+
+【シリーズについて】
+天守が国宝に指定されている城は、日本に5つ。
+松本城・犬山城・彦根城・松江城も順次制作していきます。
+よろしければまたのぞきに来てください。
+
+本書は購入者ご本人の個人利用に限ります。再配布・転載はご遠慮ください。
+```
+
 ---
 
 ## 商品② 英語版
@@ -152,11 +175,45 @@ with sources and licences credited in the book.
 himeji castle, japanese castle, national treasure, unesco world heritage, japan travel guide, japanese history, architecture, kansai, samurai, pdf guide
 ```
 
+### 購入者向けメッセージ
+
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Admission fees and opening hours in this book were correct at the time of writing
+but are subject to change. Please check the official site before visiting.
+https://www.city.himeji.lg.jp/castle/
+
+ABOUT THE SERIES
+Five castle keeps in Japan are designated National Treasures.
+Matsumoto, Inuyama, Hikone and Matsue will follow.
+Do come back and take a look.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+---
+
+## その他の設定項目
+
+| 項目 | 設定 | 理由 |
+| --- | --- | --- |
+| **Categories** | 読み物・書籍に相当するもの(Writing / Books など)を選ぶ。Travel・Education があれば併せて | Ko-fi 内の検索・回遊で見つけてもらう導線。写真集ではなく読み物なので Photography より Writing 系 |
+| **Leave a message for buyers** | ✅ チェックして上記の文面を入れる | 購入直後に表示される。注意喚起とシリーズ案内が効く |
+| **Limit the quantity available** | ❌ しない | デジタル商品なので在庫制限は不要 |
+| **Schedule** | ❌ しない | すぐ公開する場合 |
+| **Who can buy this item** | **Everyone** | Monthly supporters にするとメンバー限定になり、誰も買えなくなる |
+
 ---
 
 ## 登録後の確認
 
 - [ ] **Product summary(短い要約)** を入れた ← 見落としやすい
+- [ ] **購入者向けメッセージ**を入れた
+- [ ] **Who can buy this item = Everyone** になっている
 - [ ] 通貨が **JPY** になっている
 - [ ] 配信ファイル(PDF)が正しく添付されている
 - [ ] サムネイルが表示されている
