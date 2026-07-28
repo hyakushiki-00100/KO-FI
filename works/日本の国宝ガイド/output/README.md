@@ -91,3 +91,19 @@ bash works/日本の国宝ガイド/layout/build_profile.sh # プロフィール
 - **カバー**は表示環境で上下左右が切られるため、文字を左中央に寄せ、周囲に余白を確保
 - **アイコン**は円形に切り抜かれることがあり、50〜100pxまで縮むため**文字は入れていない**
   (天守のシルエットで識別させる。56pxでも判別できることを確認済み)
+
+### 図版の言語別バージョン
+
+図中の文字も言語ごとに用意しています。**英語版PDFに日本語ラベルの図を混ぜないこと。**
+
+| 言語 | レイアウト用(図版のみ) | 元データ(注釈つき) |
+| --- | --- | --- |
+| 日本語 | `layout/img/図_狭間の種類.svg` | `assets/図_狭間の種類.svg` |
+| 英語 | `layout/img/図_狭間の種類_en.svg` | `assets/図_狭間の種類_en.svg` |
+
+> 💡 英語版PDFに日本語が残っていないかは次で検査できます。
+> **表紙の「姫路城」併記のみ残るのが正しい状態**です。
+>
+> ```bash
+> python3 -c "import fitz;d=fitz.open('works/日本の国宝ガイド/output/Japans-National-Treasures_Himeji-Castle.pdf');t=''.join(p.get_text() for p in d);print(''.join(sorted({c for c in t if '一'<=c<='鿿'})))"
+> ```
