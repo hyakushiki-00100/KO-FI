@@ -2,7 +2,7 @@
 
 ページ:**https://ko-fi.com/zenkyu**
 
-姫路城(日本語版・英語版)を登録するための、**そのまま貼れる値**をまとめています。
+姫路城・犬山城(それぞれ日本語版・英語版)を登録するための、**そのまま貼れる値**をまとめています。
 ファイルは `works/日本の国宝ガイド/output/` にあります。
 
 > ⚠️ オンボーディング画面で **「Skip」を押さないこと。**
@@ -197,6 +197,185 @@ This book is licensed for your personal use. Please do not redistribute.
 
 ---
 
+## 犬山城を登録する
+
+### 事前に手元へ用意するもの
+
+| 用途 | ファイル |
+| --- | --- |
+| 商品③ 配信ファイル | `output/日本の国宝ガイド_犬山城.pdf` |
+| 商品③ サムネイル | `output/thumb_犬山城_ja.png` |
+| 商品④ 配信ファイル | `output/Japans-National-Treasures_Inuyama-Castle.pdf` |
+| 商品④ サムネイル | `output/thumb_Inuyama_en.png` |
+
+## 商品③ 日本語版
+
+### タイトル
+```
+日本の国宝ガイド ― 犬山城
+```
+
+### Product summary(短い要約)
+```
+犬山城だけを掘り下げたPDFガイド(全12ページ)。木曽川を見下ろす現存最古級の天守の歴史・建築の見方・見学ルート・アクセスまで。
+```
+
+### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(姫路城と同じ)。
+
+### 説明文(長い本文)
+```
+日本で天守が国宝に指定されているのは、わずか5城。
+本書はそのうちの一つ「犬山城」だけを、じっくり掘り下げたデジタルガイドです。
+
+木曽川を見下ろす断崖に建つ、国宝五城でいちばん小さくいちばん古い天守。
+築城から現代までの歴史、建築の見方、実際に歩く見学ルート、
+季節ごとの楽しみ、最寄り駅からの行き方、周辺スポットやご当地グルメまで。
+「読んでから行く」「行ってから読み返す」——どちらにも応える構成にしました。
+
+【収録内容】全12ページ
+・基本データ
+・第1章 歴史 ― 小さな城が、なぜ残ったのか
+   織田信長の叔父による築城/小牧・長久手の戦い/成瀬家の城になる/
+   濃尾地震と伊勢湾台風、二度の危機/全国で唯一、個人が所有した城
+・第2章 建築を読む ― 望楼型という古い形式/野面積みの天守台/
+   最上階の回縁と高欄/木曽川という天然の堀
+・第3章 歩いて巡る ― 見学ルート、所要時間別プラン、見どころ
+・第4〜5章 訪問ガイド ― 拝観情報、アクセス、四季、城下町グルメ、
+   有楽苑・国宝茶室「如庵」
+
+写真6点を収録しています。
+
+【仕様】
+PDF / A4縦 / 全12ページ / 約4.2MB
+スマホ・タブレット・PCで閲覧できます。
+
+【ご注意】
+本書に掲載の料金・開館時間・公開状況は変動する可能性があります。
+おでかけの前には、必ず各施設の公式サイトで最新情報をご確認ください。
+
+【ご利用について】
+購入者ご本人の個人利用に限ります。再配布・転載・商用利用は不可です。
+掲載写真はパブリックドメイン、CC0、またはCC BYライセンスのものを使用し、
+出典とライセンスを巻末に明記しています。
+```
+
+### タグ
+```
+犬山城, 国宝, 日本の城, 城めぐり, 日本史, 旅行ガイド, 建築, 愛知, 名古屋観光, PDF
+```
+
+### 購入者向けメッセージ
+```
+ご購入ありがとうございます。
+
+PDFをダウンロードして、スマホ・タブレット・PCでお読みいただけます。
+
+【おでかけの前に】
+本書の料金・開館時間・公開状況は制作時点のものです。
+変動する可能性がありますので、犬山城の公式サイトで最新情報をご確認ください。
+https://inuyama-castle.jp/
+
+【シリーズについて】
+天守が国宝に指定されている城は、日本に5つ。
+姫路城に続き、松本城・彦根城・松江城も順次制作していきます。
+よろしければまたのぞきに来てください。
+
+本書は購入者ご本人の個人利用に限ります。再配布・転載はご遠慮ください。
+```
+
+---
+
+## 商品④ 英語版
+
+### タイトル
+```
+Japan's National Treasures — Inuyama Castle
+```
+
+### Product summary(短い要約)
+```
+A 12-page PDF guide to Inuyama Castle — the oldest-style keep of the five, its history, architecture, a walking route and access.
+```
+
+### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(姫路城と同じ)。
+
+### 説明文(長い本文)
+```
+Only five castle keeps in Japan are designated National Treasures.
+This guide takes one of them — Inuyama — and goes deep.
+
+Perched on a cliff above the Kiso River, Inuyama is the smallest and
+architecturally oldest of the five. History from the castle's founding
+to the present day, how to actually read the architecture, a walking
+route with realistic timings, the seasons, access from the nearest
+station, what's nearby and what to eat.
+Written to work either way round: read it before you go, or read it again
+after you've been.
+
+CONTENTS — 12 pages
+· At a glance
+· Chapter 1 — History: how a small castle survived
+   Founded by Oda Nobunaga's uncle / the Battle of Komaki-Nagakute /
+   the Naruse family takes over / two disasters — the Nōbi earthquake
+   and the Isewan Typhoon / the only castle in Japan once privately owned
+· Chapter 2 — Reading the architecture: the old-style bōrō keep,
+   rough-cut nozura stonework, the low balcony rail, the Kiso River as
+   a natural moat
+· Chapter 3 — Walking the castle: route, timings, what not to miss
+· Chapters 4-5 — Visiting: admission, access, seasons, the castle town's
+   food, and the National Treasure teahouse Jo-an at Urakuen
+
+Includes six photographs.
+
+SPECIFICATIONS
+PDF / A4 / 12 pages / approx. 3.2MB
+Readable on phone, tablet and computer.
+
+PLEASE NOTE
+Admission fees, opening hours and access arrangements are subject to change.
+Always check the official website before visiting.
+
+TERMS
+Licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+All photographs are used under public domain, CC0 or CC BY licences,
+with sources and licences credited in the book.
+```
+
+### タグ
+```
+inuyama castle, japanese castle, national treasure, japan travel guide, japanese history, architecture, aichi, nagoya, samurai, pdf guide
+```
+
+### 購入者向けメッセージ
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Admission fees and opening hours in this book were correct at the time of writing
+but are subject to change. Please check the official site before visiting.
+https://inuyama-castle.jp/
+
+ABOUT THE SERIES
+Five castle keeps in Japan are designated National Treasures.
+Following Himeji, Matsumoto, Hikone and Matsue will follow.
+Do come back and take a look.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+---
+
 ## その他の設定項目
 
 | 項目 | 設定 | 理由 |
@@ -317,8 +496,8 @@ Please check each site's official website before visiting.
 
 | 時期 | やること |
 | --- | --- |
-| いま | 姫路城 日英2点を登録 |
-| 次 | 松本・犬山・彦根・松江を制作 → 各2点を登録 |
+| いま | 姫路城・犬山城 各日英2点、計4点を登録 |
+| 次 | 松本・彦根・松江を制作 → 各2点を登録 |
 | 5城揃ったら | **五城セット**(¥1,800前後)を追加。単品5冊¥2,500よりお得にする |
 
 セット販売の考え方は [`../works/日本の国宝ガイド/出品文.md`](../works/日本の国宝ガイド/出品文.md) を参照。
