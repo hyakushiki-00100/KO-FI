@@ -23,6 +23,7 @@ Ko-fi(ko-fi.com/zenkyu)で頒布・販売するデジタル作品(主にPDFガ�
   - 生成済みファイル一覧・再生成コマンド → [`works/日本の国宝ガイド/output/README.md`](works/日本の国宝ガイド/output/README.md)
   - Ko-fi Shop 出品の手順・コピペ文面 → [`docs/kofi-shop-登録手順.md`](docs/kofi-shop-登録手順.md)
   - Ko-fi プロフィール文面 → [`docs/kofi-profile.md`](docs/kofi-profile.md)
+  - 英文記事(高級旅行誌トーン。PDFとは別系統)の書き手設定・文体ルール → [`works/日本の国宝ガイド/articles/README.md`](works/日本の国宝ガイド/articles/README.md)
 
 ## 押さえておくべき前提・ルール
 
