@@ -22,6 +22,7 @@ KO-FI/
 │   ├── image-sources.md   … 著作権フリー画像の探し方・ライセンス注意
 │   ├── team.md            … 役割分担・メンバー
 │   ├── workflow.md        … 企画〜出品までの制作フロー
+│   ├── writing-persona.md … 英文記事の書き手ペルソナ・文体ルール(他チーム共有可)
 │   └── conventions.md     … 命名・管理ルール
 ├── works/                 … 個別作品(1作品 = 1ディレクトリ)
 │   └── _template/         … 新規作品を始めるときの雛形
