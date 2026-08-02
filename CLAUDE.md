@@ -27,6 +27,8 @@ Ko-fi(ko-fi.com/zenkyu)で頒布・販売するデジタル作品(主にPDFガ�
     - 英文記事(高級旅行誌トーン。PDFとは別系統)→ [`docs/writing-persona-en.md`](docs/writing-persona-en.md)
     - 日本語記事(40代Uターン・家族連れ視点)→ [`docs/writing-persona-ja.md`](docs/writing-persona-ja.md)
     - ⚠️ **この2つは別人格。記事は互いの翻訳ではない**(訳すと両方壊れる)
+    - ⚠️ この2つは**ジャンル非依存**(声・構成・禁止表現のみ)。旅行ガイドとして何を載せるかは
+      [`.claude/agents/article.md`](.claude/agents/article.md)(`article` サブエージェント。「記事を書いて」で呼び出す)
     - 国宝ガイド固有の運用メモ → [`works/日本の国宝ガイド/articles/README.md`](works/日本の国宝ガイド/articles/README.md)
 
 ## 押さえておくべき前提・ルール
