@@ -20,7 +20,7 @@ PDFガイドブック(`entries/`)とは**別系統の成果物**。
 
 ## 書き手の設定・文体ルール
 
-> 📘 **正典は [`docs/writing-persona.md`](../../../docs/writing-persona.md) に移しました。**
+> 📘 **正典は [`docs/writing-persona-en.md`](../../../docs/writing-persona-en.md) に移しました。**
 > 書き手のプロフィール、文体ルール、使わない表現リスト、before/after の実例、
 > 記事の型、入稿前チェックリストはすべてそちらにあります。
 > **次に書くときは必ずそちらを読んでから**始めてください。

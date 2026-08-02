@@ -9,7 +9,7 @@
 | --- | --- |
 | ディレクター | 全体の企画・進行管理・出品判断 |
 | 作画 / デザイン | イラスト・グラフィック・レイアウト |
-| シナリオ / テキスト | 文章・設定・出品説明文。英文記事は [`writing-persona.md`](writing-persona.md) の設定に従う |
+| シナリオ / テキスト | 文章・設定・出品説明文。記事は [`writing-persona-en.md`](writing-persona-en.md) / [`writing-persona-ja.md`](writing-persona-ja.md) の設定に従う |
 | 編集 / 校正 | 誤字脱字・品質チェック・体裁調整 |
 | 出品担当 | Ko-fi への登録・価格設定・公開 |
 | レイアウト / 組版 | 原稿と画像からPDFを組む・表紙/サムネイル作成 |

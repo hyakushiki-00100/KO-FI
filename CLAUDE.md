@@ -23,7 +23,10 @@ Ko-fi(ko-fi.com/zenkyu)で頒布・販売するデジタル作品(主にPDFガ�
   - 生成済みファイル一覧・再生成コマンド → [`works/日本の国宝ガイド/output/README.md`](works/日本の国宝ガイド/output/README.md)
   - Ko-fi Shop 出品の手順・コピペ文面 → [`docs/kofi-shop-登録手順.md`](docs/kofi-shop-登録手順.md)
   - Ko-fi プロフィール文面 → [`docs/kofi-profile.md`](docs/kofi-profile.md)
-  - 英文記事(高級旅行誌トーン。PDFとは別系統)の書き手設定・文体ルール → [`docs/writing-persona.md`](docs/writing-persona.md)(**全作品共通の正典**。他チームにも共有可)
+  - 記事の書き手ペルソナ・文体ルール(**全作品共通の正典**。他チームにも共有可):
+    - 英文記事(高級旅行誌トーン。PDFとは別系統)→ [`docs/writing-persona-en.md`](docs/writing-persona-en.md)
+    - 日本語記事(40代Uターン・家族連れ視点)→ [`docs/writing-persona-ja.md`](docs/writing-persona-ja.md)
+    - ⚠️ **この2つは別人格。記事は互いの翻訳ではない**(訳すと両方壊れる)
     - 国宝ガイド固有の運用メモ → [`works/日本の国宝ガイド/articles/README.md`](works/日本の国宝ガイド/articles/README.md)
 
 ## 押さえておくべき前提・ルール
