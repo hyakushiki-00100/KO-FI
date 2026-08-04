@@ -59,6 +59,14 @@ KO-FI/
 | `kofi_avatar.png` | Ko-fi アイコン・800×800 |
 | `kofi_shop_preview.png` | Ko-fi ショップ共有用・1200×600 |
 
+## 生成済みファイル(2026-08)
+
+| ファイル | 内容 |
+| --- | --- |
+| `Japans-National-Treasures_Hikone-Castle.pdf` | 英語版・A4縦12ページ・約3.5MB(日本語版は未作成) |
+| `Japans-National-Treasures_Matsue-Castle.pdf` | 英語版・A4縦12ページ・約3.8MB(日本語版は未作成) |
+| `thumb_Hikone_en.png` / `thumb_Matsue_en.png` | 彦根城・松江城サムネイル・1200×1200(英語版のみ) |
+
 ### 作り直すには
 
 ```bash
