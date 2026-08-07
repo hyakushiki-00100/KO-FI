@@ -376,6 +376,107 @@ This book is licensed for your personal use. Please do not redistribute.
 
 ---
 
+## 彦根城を登録する
+
+> ⚠️ **英語版のみ**。日本語版PDFはまだ作成していない(`works/日本の国宝ガイド/output/README.md` 参照)。
+
+### 事前に手元へ用意するもの
+
+| 用途 | ファイル |
+| --- | --- |
+| 商品⑤ 配信ファイル | `output/Japans-National-Treasures_Hikone-Castle.pdf` |
+| 商品⑤ サムネイル | `output/thumb_Hikone_en.png` |
+
+## 商品⑤ 英語版
+
+### タイトル
+```
+Japan's National Treasures — Hikone Castle
+```
+
+### Product summary(短い要約)
+```
+A 12-page PDF guide to Hikone Castle — a small keep assembled from pieces of other castles, its history, architecture, a walking route and access.
+```
+
+### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(姫路城と同じ)。
+
+### 説明文(長い本文)
+```
+Only five castle keeps in Japan are designated National Treasures.
+This guide takes one of them — Hikone — and goes deep.
+
+Assembled from parts of castles the Tokugawa shogunate tore down, Hikone's
+compact keep is dressed in gables and curved eaves far grander than its size
+would suggest. History from the castle's founding to the present day, how to
+actually read the architecture, a walking route with realistic timings, the
+seasons, access from the nearest station, what's nearby and what to eat.
+Written to work either way round: read it before you go, or read it again
+after you've been.
+
+CONTENTS — 12 pages
+· At a glance
+· Chapter 1 — History: a keep assembled from seven castles
+   Ii Naomasa and the "Red Devils" / a castle patched together from Otsu,
+   Nagahama and Odani castles / the Sieges of Osaka and Ii Naotaka /
+   a tenshu saved by one plea during an imperial visit / the garden Genkyū-en
+· Chapter 2 — Reading the architecture: small, but dressed to impress
+   Gables and curved karahafu eaves stacked on a compact keep / the Tenbin
+   Turret, named for its scale-like symmetry / a castle assembled from other
+   castles' parts / one of the few Edo-period castles with its moats, turrets
+   and garden still intact together
+· Chapter 3 — Walking the castle: route, timings, what not to miss
+· Chapter 4 — Visiting: admission, access, seasons, Genkyū-en garden, Yume
+   Kyōbashi Castle Road, and Hikone's food — Omi beef, red konjac and the
+   Hikone-don rice bowl
+
+Includes nine photographs.
+
+SPECIFICATIONS
+PDF / A4 / 12 pages / approx. 3.5MB
+Readable on phone, tablet and computer.
+
+PLEASE NOTE
+Admission fees, opening hours and access arrangements are subject to change.
+Always check the official website before visiting.
+
+TERMS
+Licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+All photographs are used under public domain, CC0 or CC BY licences,
+with sources and licences credited in the book.
+```
+
+### タグ
+```
+hikone castle, japanese castle, national treasure, japan travel guide, japanese history, architecture, shiga, lake biwa, samurai, pdf guide
+```
+
+### 購入者向けメッセージ
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Admission fees and opening hours in this book were correct at the time of writing
+but are subject to change. Please check the official site before visiting.
+https://hikonecastle.com/
+
+ABOUT THE SERIES
+Five castle keeps in Japan are designated National Treasures.
+Following Himeji and Inuyama, Matsumoto and Matsue will follow.
+Do come back and take a look.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+---
+
 ## その他の設定項目
 
 | 項目 | 設定 | 理由 |
