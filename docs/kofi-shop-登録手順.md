@@ -477,6 +477,108 @@ This book is licensed for your personal use. Please do not redistribute.
 
 ---
 
+## 松江城を登録する
+
+> ⚠️ **英語版のみ**。日本語版PDFはまだ作成していない(`works/日本の国宝ガイド/output/README.md` 参照)。
+
+### 事前に手元へ用意するもの
+
+| 用途 | ファイル |
+| --- | --- |
+| 商品⑥ 配信ファイル | `output/Japans-National-Treasures_Matsue-Castle.pdf` |
+| 商品⑥ サムネイル | `output/thumb_Matsue_en.png` |
+
+## 商品⑥ 英語版
+
+### タイトル
+```
+Japan's National Treasures — Matsue Castle
+```
+
+### Product summary(短い要約)
+```
+A 12-page PDF guide to Matsue Castle — the only donjon with a well inside, its history, architecture, a walking route and access.
+```
+
+### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(姫路城と同じ)。
+
+### 説明文(長い本文)
+```
+Only five castle keeps in Japan are designated National Treasures.
+This guide takes one of them — Matsue — and goes deep.
+
+A single prayer tablet, found in 2012, put Matsue back among Japan's National
+Treasures after 63 years. History from the castle's founding to the present
+day, how to actually read the architecture, a walking route with realistic
+timings, the seasons, access from the nearest station, what's nearby and
+what to eat. Written to work either way round: read it before you go, or
+read it again after you've been.
+
+CONTENTS — 12 pages
+· At a glance
+· Chapter 1 — History: the last National Treasure keep to earn its title
+   Hori Yoshiharu, who served three unifiers of Japan / a prayer tablet that
+   proved the keep's completion date / two forced successions and the
+   Matsudaira family's 250 years / sold for 180 yen and bought back by two
+   local men / stripped to Important Cultural Property, then reinstated as
+   a National Treasure in 2015
+· Chapter 2 — Reading the architecture: built for war, not for show
+   Black wooden cladding and the "Plover Castle" nickname / the only
+   surviving keep with a well inside / gobō-zumi stonework and pillars
+   patched together from short timber / the annexe turret's firing gallery
+   and the 360-degree view from the top floor
+· Chapter 3 — Walking the castle: route, timings, what not to miss
+· Chapter 4 — Visiting: admission, access, seasons, a boat tour of the
+   moat, the samurai quarter of Shiomi Nawate, and Lake Shinji's seven
+   local delicacies
+
+Includes nine photographs.
+
+SPECIFICATIONS
+PDF / A4 / 12 pages / approx. 3.8MB
+Readable on phone, tablet and computer.
+
+PLEASE NOTE
+Admission fees, opening hours and access arrangements are subject to change.
+Always check the official website before visiting.
+
+TERMS
+Licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+All photographs are used under public domain, CC0 or CC BY licences,
+with sources and licences credited in the book.
+```
+
+### タグ
+```
+matsue castle, japanese castle, national treasure, japan travel guide, japanese history, architecture, shimane, lake shinji, samurai, pdf guide
+```
+
+### 購入者向けメッセージ
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Admission fees and opening hours in this book were correct at the time of writing
+but are subject to change. Please check the official site before visiting.
+https://www.matsue-castle.jp/
+
+ABOUT THE SERIES
+Five castle keeps in Japan are designated National Treasures.
+Following Himeji, Inuyama and Hikone, Matsumoto will follow.
+Do come back and take a look.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+---
+
 ## その他の設定項目
 
 | 項目 | 設定 | 理由 |
