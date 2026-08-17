@@ -1,0 +1,133 @@
+/* ============================================================
+   日本の国宝ガイド — 共通スタイル
+   A4縦 / Chromium print-to-pdf 用
+   ============================================================ */
+
+@page { size: A4; margin: 0; }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --ink:      #1f1d1a;   /* 本文 */
+  --sub:      #6b655c;   /* 補助テキスト */
+  --rule:     #d6cfc2;   /* 罫 */
+  --wash:     #f6f3ec;   /* 地色(白漆喰) */
+  --accent:   #7a2e2e;   /* 差し色(古色の朱) */
+  --page-x:   20mm;
+  --page-y:   18mm;
+}
+
+body { color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* ---------- ページ ---------- */
+.page {
+  width: 210mm; height: 297mm;
+  padding: var(--page-y) var(--page-x);
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+  display: flex; flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+.page.bleed { padding: 0; }
+
+/* ---------- 表紙 ---------- */
+.cover { position: relative; background: #111; }
+.cover img { width: 100%; height: 100%; object-fit: cover; opacity: .92; }
+.cover .veil {
+  position: absolute; inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,.42) 0%, rgba(0,0,0,.05) 38%, rgba(0,0,0,.06) 62%, rgba(0,0,0,.72) 100%);
+}
+.cover .top { position: absolute; top: 22mm; left: 20mm; right: 20mm; color: #fff; }
+.cover .series { font-size: 10pt; letter-spacing: .35em; opacity: .9; margin-bottom: 5mm; }
+.cover h1 { font-size: 40pt; line-height: 1.15; font-weight: 700; text-shadow: 0 2px 14px rgba(0,0,0,.5); }
+.cover .en { font-size: 12pt; letter-spacing: .18em; margin-top: 4mm; opacity: .92; }
+.cover .bottom { position: absolute; bottom: 20mm; left: 20mm; right: 20mm; color: #fff; }
+.cover .catch { font-size: 12.5pt; line-height: 1.85; text-shadow: 0 1px 10px rgba(0,0,0,.6); }
+.cover .vol { margin-top: 6mm; font-size: 9.5pt; letter-spacing: .2em; opacity: .8; }
+
+/* ---------- 見出し ---------- */
+.chapno {
+  font-size: 9pt; letter-spacing: .3em; color: var(--accent);
+  border-bottom: 1.5px solid var(--accent); display: inline-block;
+  padding-bottom: 1.5mm; margin-bottom: 4mm;
+}
+h2 { font-size: 21pt; line-height: 1.35; margin-bottom: 6mm; font-weight: 700; }
+h3 { font-size: 13pt; margin: 7mm 0 3mm; font-weight: 700; }
+h3::before { content: ""; display: inline-block; width: 3px; height: .95em;
+  background: var(--accent); margin-right: 2.5mm; vertical-align: -1px; }
+h4 { font-size: 11pt; margin: 5mm 0 2mm; font-weight: 700; color: var(--accent); }
+
+/* ---------- 本文 ---------- */
+p { font-size: 10pt; line-height: 1.95; margin-bottom: 3.5mm; text-align: justify; }
+p.lead { font-size: 11pt; line-height: 2.0; }
+strong { font-weight: 700; }
+.small { font-size: 8.5pt; line-height: 1.7; color: var(--sub); }
+
+ul, ol { margin: 0 0 4mm 5mm; }
+li { font-size: 10pt; line-height: 1.8; margin-bottom: 1.5mm; }
+
+/* ---------- 注意書き ---------- */
+.notice {
+  border: 1px solid var(--rule); background: var(--wash);
+  padding: 5mm 6mm; margin-bottom: 6mm; page-break-inside: avoid;
+}
+.notice .t { font-size: 9.5pt; font-weight: 700; margin-bottom: 2mm; color: var(--accent); }
+.notice p { font-size: 9pt; line-height: 1.8; margin: 0; }
+
+/* ---------- コラム ---------- */
+.column {
+  border-left: 3px solid var(--accent); background: var(--wash);
+  padding: 4.5mm 6mm; margin: 5mm 0; page-break-inside: avoid;
+}
+.column .t { font-size: 10pt; font-weight: 700; margin-bottom: 2mm; }
+.column p { font-size: 9.5pt; line-height: 1.85; margin-bottom: 0; }
+
+/* ---------- 表 ---------- */
+table { width: 100%; border-collapse: collapse; margin: 3mm 0 5mm; page-break-inside: avoid; }
+th, td { font-size: 9.5pt; line-height: 1.7; padding: 2.2mm 3mm; text-align: left;
+  border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { background: var(--wash); font-weight: 700; white-space: nowrap; }
+table.data th { width: 32%; }
+
+/* ---------- 図版 ---------- */
+figure { margin: 4mm 0 5mm; page-break-inside: avoid; }
+figure img { width: 100%; display: block; }
+figure svg { width: 100%; display: block; }
+figcaption { font-size: 8.5pt; line-height: 1.6; color: var(--sub); margin-top: 2mm; }
+figure.wide { margin-left: calc(-1 * var(--page-x)); margin-right: calc(-1 * var(--page-x)); }
+figure.wide figcaption { padding: 0 var(--page-x); }
+
+/* 高さを抑えて、キャプションまで確実に収める */
+figure.fit img { max-height: 88mm; width: auto; max-width: 100%; margin: 0 auto; }
+figure.h70 img { max-height: 70mm; width: auto; max-width: 100%; margin: 0 auto; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; margin: 4mm 0 5mm; }
+.two figure { margin: 0; }
+
+/* ---------- ルート図 ---------- */
+.route {
+  background: var(--wash); border: 1px solid var(--rule);
+  padding: 5mm 6mm; margin: 4mm 0 5mm; page-break-inside: avoid;
+}
+.route ol { list-style: none; margin: 0; }
+.route li { font-size: 9.5pt; line-height: 1.6; margin-bottom: 2.5mm; padding-left: 7mm; position: relative; }
+.route li::before {
+  content: "▸"; position: absolute; left: 0; color: var(--accent); font-size: 11pt;
+}
+.route li:last-child { margin-bottom: 0; }
+
+/* ---------- フッター ---------- */
+.folio {
+  position: absolute; bottom: 10mm; left: var(--page-x); right: var(--page-x);
+  display: flex; justify-content: space-between;
+  font-size: 8pt; color: var(--sub); border-top: 1px solid var(--rule); padding-top: 2mm;
+}
+
+/* ---------- 奥付 ---------- */
+.colophon { font-size: 9pt; line-height: 1.7; }
+.colophon h3 { font-size: 10.5pt; margin: 4.5mm 0 2mm; }
+.colophon p { margin-bottom: 2mm; }
+.colophon ul { list-style: none; margin-left: 0; margin-bottom: 2mm; }
+.colophon li { font-size: 8.5pt; line-height: 1.6; margin-bottom: .8mm; }
+.creditbox { border: 1px solid var(--rule); padding: 4mm 5mm; margin: 2mm 0 3mm; background: var(--wash); }
+.colophon .end { margin-top: 5mm; padding-top: 3mm; border-top: 1px solid var(--rule); }
