@@ -704,3 +704,115 @@ Please check each site's official website before visiting.
 | 5城揃ったら | **五城セット**(¥1,800前後)を追加。単品5冊¥2,500よりお得にする |
 
 セット販売の考え方は [`../works/日本の国宝ガイド/出品文.md`](../works/日本の国宝ガイド/出品文.md) を参照。
+
+---
+
+# 日本の名城ガイド(Vol.2)を登録する
+
+> ⚠️ Vol.1(国宝五城)とは**別シリーズ**。国宝指定ではない城も含むため、
+> 「国宝」の語は使わず **"Japan's Great Castles"** と表記する。
+> 熊本城は**英語版のみ**。日本語版PDFはまだ作成していない
+> (`works/日本の名城ガイド/output/` 参照)。
+
+## 熊本城を登録する
+
+### 事前に手元へ用意するもの
+
+| 用途 | ファイル |
+| --- | --- |
+| 商品 配信ファイル | `works/日本の名城ガイド/output/Japans-Great-Castles_Kumamoto-Castle.pdf` |
+| 商品 サムネイル | `works/日本の名城ガイド/output/thumb_Kumamoto_en.png` |
+
+### タイトル
+```
+Japan's Great Castles — Kumamoto Castle
+```
+
+### Product summary(短い要約)
+```
+A 19-page PDF guide to Kumamoto Castle — struck by major earthquakes in both 2016 and 2026, its history, architecture, a walking route and access.
+```
+
+### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(Vol.1と同じ)。
+
+### 説明文(長い本文)
+```
+Not every great castle in Japan carries the title of National Treasure.
+This guide takes on one of the most dramatic of them — Kumamoto — and goes deep.
+
+Built by a castle-builder who never wanted to be starved into surrender
+again, Kumamoto's stone walls curve upward too steeply for even a ninja
+to climb. History from the castle's founding to the present day — including
+the 2016 earthquake that brought down its roof tiles and cracked a third of
+its walls, and the second earthquake in July 2026 that struck the repair
+work already underway — how to actually read the architecture, a walking
+route with realistic timings, the seasons, access from the nearest station,
+what's nearby and what to eat.
+Written to work either way round: read it before you go, or read it again
+after you've been.
+
+CONTENTS — 19 pages
+· At a glance
+· Chapter 1 — History: a castle built to never suffer siege again
+   Kato Kiyomasa's starvation-shaped design / the "warrior-repelling" stone
+   walls / 240 years under the Hosokawa / the Satsuma Rebellion and the loss
+   of the keep / rebuilt in concrete, then struck by the 2016 earthquake /
+   and then, in 2026, the ground moved again
+· Chapter 2 — Reading the architecture: a castle that shows its scars
+   The fan-shaped stone slope / Uto Turret, the other keep / built for a
+   siege that never ends / the unusual case of a castle that shows its own
+   repair
+· Chapter 3 — Walking the castle: route, timings, what not to miss
+· Chapter 4 — Visiting: admission, access, the castle through the year,
+   Kato Shrine, and Kumamoto's food — horse sashimi, taipien and karashi
+   renkon
+
+Includes thirteen photographs.
+
+SPECIFICATIONS
+PDF / A4 / 19 pages / approx. 6.5MB
+Readable on phone, tablet and computer.
+
+PLEASE NOTE
+Kumamoto Castle was struck by a major earthquake on 28 July 2026, on top of
+ongoing repairs from the 2016 earthquake. Admission fees, opening hours and
+which areas are open to the public are unusually unsettled as a result.
+Always check the official website before visiting.
+
+TERMS
+Licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+Photographs are used under public domain, CC0, CC BY or Photo AC's standard
+material-use terms, with sources credited in the book.
+```
+
+### タグ
+```
+kumamoto castle, japanese castle, japan travel guide, japanese history, architecture, kyushu, earthquake recovery, samurai, pdf guide, kumamoto
+```
+
+### 購入者向けメッセージ
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Kumamoto Castle is still recovering from earthquakes in 2016 and again in
+July 2026. Admission, opening hours and which areas are open change often.
+Please check the official site before visiting.
+https://castle.kumamoto-guide.jp/
+
+ABOUT THE SERIES
+This is the first title in a new series — Japan's Great Castles — looking
+beyond the five National Treasure keeps to other castles worth the trip.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+> 💡 その他の設定項目(Categories・購入者向けメッセージのチェック・Who can buy this item
+> など)は本ドキュメント前半の「その他の設定項目」節と同じ方針。テスト購入の手順も同様。
