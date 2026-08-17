@@ -783,6 +783,11 @@ ongoing repairs from the 2016 earthquake. Admission fees, opening hours and
 which areas are open to the public are unusually unsettled as a result.
 Always check the official website before visiting.
 
+Kumamoto has rebuilt from major earthquakes twice in ten years. Every trip
+there — every meal, every night's stay, every ticket through the castle
+gate — is part of that rebuilding. We hope this guide sends a few more
+people its way.
+
 TERMS
 Licensed for the personal use of the purchaser.
 Redistribution, reproduction and commercial use are not permitted.
@@ -800,6 +805,15 @@ kumamoto castle, japanese castle, japan travel guide, japanese history, architec
 Thank you for your purchase.
 
 Download the PDF and read it on your phone, tablet or computer.
+
+A NOTE ON KUMAMOTO
+Kumamoto has now been knocked down and rebuilt itself twice in ten years —
+2016, and again in July 2026. Both times, the castle's stone walls came
+down, and both times, the city put them back up. If this guide gives you
+even a small push to actually go — a bowl of ramen, a night at a local inn,
+a ticket through the castle gate all become part of that rebuilding. We're
+rooting for Kumamoto, and we hope this book helps a few more people find
+their way there.
 
 BEFORE YOU GO
 Kumamoto Castle is still recovering from earthquakes in 2016 and again in
