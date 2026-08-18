@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# ============================================================
+# 日本の名刹ガイド — PDFビルド
+# (テンプレート・手法は works/日本の名城ガイド/layout/build.sh を移植)
+#
+# ⚠️ Chromium は日本語を含むパスの file:// URL を解決できないため、
+#    いったん ASCII のみの一時ディレクトリへコピーしてから書き出し、
+#    生成された PDF を output/ へ戻す。
+# ============================================================
+set -euo pipefail
+
+CHROME=/opt/pw-browsers/chromium-1194/chrome-linux/chrome
+HERE="$(cd "$(dirname "$0")" && pwd)"
+OUT="$HERE/../output"
+TMP="$(mktemp -d /tmp/kofi-build-XXXXXX)"   # ASCIIパス必須
+trap 'rm -rf "$TMP"' EXIT
+
+cp -r "$HERE/." "$TMP/"
+mkdir -p "$OUT"
+
+build () {                       # $1=htmlファイル名  $2=出力PDF名
+  "$CHROME" --headless --disable-gpu --no-sandbox \
+    --virtual-time-budget=20000 --no-pdf-header-footer \
+    --print-to-pdf="$TMP/out.pdf" "file://$TMP/$1" 2>/dev/null
+  cp "$TMP/out.pdf" "$OUT/$2"
+  python3 - "$OUT/$2" <<'PY'
+import re, sys, os
+p = sys.argv[1]
+d = open(p, 'rb').read()
+pages = len(re.findall(rb'/Type\s*/Page[^s]', d))
+print(f"  ✓ {os.path.basename(p)} — {pages}ページ / {len(d)/1024/1024:.1f}MB")
+PY
+}
+
+echo "PDFを書き出しています…"
+build zenkoji_ja.html "日本の名刹ガイド_善光寺.pdf"
+echo "完了。出力先: works/日本の名刹ガイド/output/"
