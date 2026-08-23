@@ -39,4 +39,5 @@ PY
 
 echo "サムネイルを書き出しています…"
 shot thumb.html "thumb_善光寺.png"
+shot thumb_en.html "thumb_Zenkoji_en.png"
 echo "完了。出力先: works/日本の名刹ガイド/output/"

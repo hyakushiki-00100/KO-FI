@@ -34,4 +34,5 @@ PY
 
 echo "PDFを書き出しています…"
 build zenkoji_ja.html "日本の名刹ガイド_善光寺.pdf"
+build zenkoji_en.html "Japans-Sacred-Temples_Zenkoji.pdf"
 echo "完了。出力先: works/日本の名刹ガイド/output/"
