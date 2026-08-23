@@ -34,7 +34,7 @@
 
 | # | 寺社 | 所在地 | ステータス |
 | --- | --- | --- | --- |
-| 1 | 善光寺 | 長野県長野市 | 📦 PDF完成([`output/日本の名刹ガイド_善光寺.pdf`](output/日本の名刹ガイド_善光寺.pdf)・23ページ)。サムネイルも生成済み。次は出品準備(価格・ショップ登録コピー) |
+| 1 | 善光寺 | 長野県長野市 | 📦 JA/EN PDF完成(JA 23p・EN 14p)。次は出品準備(価格・ショップ登録コピー) |
 
 ## 画像について
 
@@ -70,8 +70,23 @@ Vol.1・Vol.2 と同様、追加で画像が必要な場合は
     1件(p.8のキャプションがフッターと衝突)発見・修正済み
   - Wikimedia Commons由来3枚(Jnn/663highland/Michael G. Khmelnitsky)の必須クレジット表記、
     個人利用限定・再配布不可の利用規約も奥付に収録済み
-  - **未着手**:英語版PDF、`善光寺_山門.jpg`(被写体未確定)・`善光寺_記念塔.jpg`(名称未確認)は
-    今回未使用のまま
+  - `善光寺_山門.jpg`(被写体未確定)・`善光寺_記念塔.jpg`(名称未確認)は今回未使用のまま
+- [x] 🌐 英語版記事・PDF完成
+  - 記事:[`articles/1_Zenkoji.md`](articles/1_Zenkoji.md)(`article`サブエージェント執筆、
+    約1,470語。entryの翻訳ではなく英語ペルソナによる独立記事。姫路城 `articles/1_Himeji.md`
+    と同じパターン)
+  - PDF: [`output/Japans-Sacred-Temples_Zenkoji.pdf`](output/Japans-Sacred-Temples_Zenkoji.pdf)
+    (14ページ・約5.4MB)/ サムネイル: [`output/thumb_Zenkoji_en.png`](output/thumb_Zenkoji_en.png)
+  - Opusサブエージェントによる独立精査を実施。屋根の建築用語誤訳(hipped→pyramidal roof。
+    経蔵は宝形造で寄棟造ではない)、本堂屋根の事実誤認(瓦とtiles→檜皮葺〈cypress-bark〉、
+    本堂は瓦葺ではない)、鳩字の額の位置誤り、Michael G. Khmelnitsky氏の指定クレジット
+    表記文の不一致、奥付への内部リポジトリパス露出などを発見・修正
+  - 精査後に自分でも追加検証し、JA entry側にも同じ誤りがあった「中山道・北国街道が交わる
+    交通の要衝」という記述(実際に交わるのは追分宿=軽井沢で善光寺から約70km)をJA/EN両方の
+    entry・article・layout HTMLで修正。EN PDFの公式サイトリンクが非クリック可だった2箇所も
+    `<a>`タグ化
+  - JA/EN両PDFを再ビルドし、全ページ(23p/14p)の機械チェック(本文ブロックのフッター衝突)を
+    独立して再実行、問題なしを確認済み
 - [ ] 📦 出品準備(価格・ショップ登録コピー・Ko-fi Shop登録)
 - [ ] ✅ 出品(Ko-fi 公開)
 
