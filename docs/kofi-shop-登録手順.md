@@ -830,3 +830,204 @@ This book is licensed for your personal use. Please do not redistribute.
 
 > 💡 その他の設定項目(Categories・購入者向けメッセージのチェック・Who can buy this item
 > など)は本ドキュメント前半の「その他の設定項目」節と同じ方針。テスト購入の手順も同様。
+
+---
+
+# 日本の名刹ガイド(Vol.3)を登録する
+
+> ⚠️ Vol.1・Vol.2(城)とは**別シリーズ**。対象は寺社(名刹)。
+> シリーズ名の英訳は **"Japan's Sacred Temples"**。第1作は善光寺(長野県長野市)、
+> **日本語版・英語版とも作成済み**。
+
+## 事前に手元へ用意するもの
+
+| 用途 | ファイル |
+| --- | --- |
+| 商品① 配信ファイル(日本語版) | `works/日本の名刹ガイド/output/日本の名刹ガイド_善光寺.pdf` |
+| 商品① サムネイル | `works/日本の名刹ガイド/output/thumb_善光寺.png` |
+| 商品② 配信ファイル(英語版) | `works/日本の名刹ガイド/output/Japans-Sacred-Temples_Zenkoji.pdf` |
+| 商品② サムネイル | `works/日本の名刹ガイド/output/thumb_Zenkoji_en.png` |
+
+## 善光寺を登録する
+
+### 商品① 日本語版
+
+#### タイトル
+```
+日本の名刹ガイド ― 善光寺
+```
+
+#### Product summary(短い要約)
+```
+善光寺だけを掘り下げたPDFガイド(全23ページ)。誰も見たことのない絶対秘仏、漆黒の闇を歩く「お戒壇巡り」など、見るだけで終わらない寺の見どころ・参拝ルート・アクセスまで。
+```
+
+#### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(Vol.1・Vol.2と同じ)。
+
+#### 説明文(長い本文)
+```
+住職ですら、本尊を見たことがない寺があります。
+
+本書は「日本の名刹ガイド」第一作として、その善光寺(長野県長野市)だけを、
+じっくり掘り下げたデジタルガイドです。
+
+特定の宗派を持たず、誰でも参拝できる寺だからこそ生まれた「一生に一度は善光寺参り」
+という言葉。本尊の真下を漆黒の闇の中でたどる「お戒壇巡り」、回せば一切経を読んだのと
+同じ功徳が得られる「輪蔵」、3文字に5羽の鳩が隠れた山門の「鳩字の額」――見て終わる寺
+ではなく、体を動かして参拝する寺の全体像を、歴史・建築・参拝ルート・アクセスまで
+まとめました。
+「読んでから行く」「行ってから読み返す」――どちらにも応える構成にしました。
+
+【収録内容】全23ページ
+・基本データ
+・第1章 歴史 ― 一人の従者が信濃へ連れ帰った仏像
+   百済伝来の絶対秘仏/十数度の火災と再建/「牛に引かれて善光寺参り」/
+   弘化4年(1847年)御開帳中に起きた善光寺地震
+・第2章 建築・見どころを読む ― 撞木造の本堂/山門「鳩字の額」/経蔵と輪蔵/
+   仁王門/濡れ仏・六地蔵・びんずる尊者/お戒壇巡り/無宗派・両山体制
+・第3章 歩いて巡る ― 参拝ルート、所要時間別プラン、仲見世通り
+・第4章 訪問ガイド ― 拝観情報、アクセス、四季、門前町の味
+
+写真22点(著者自身の撮影+Wikimedia Commonsのライセンス画像)を収録しています。
+
+【仕様】
+PDF / A4縦 / 全23ページ / 約12.1MB
+スマホ・タブレット・PCで閲覧できます。
+
+【ご注意】
+2026年4月1日の拝観料改定を反映済み(制作時点)。ただし料金・開館時間・御開帳期間は
+変動する可能性があります。おでかけの前には、必ず善光寺公式サイトで最新情報を
+ご確認ください。
+
+【ご利用について】
+購入者ご本人の個人利用に限ります。再配布・転載・商用利用は不可です。
+掲載写真は著者自身の撮影、またはCC BYライセンス(要クレジット)・CC BY相当の
+帰属表示ライセンスのものを使用し、出典とライセンスを巻末に明記しています。
+```
+
+#### タグ
+```
+善光寺, 長野, 寺社仏閣, お寺めぐり, 日本史, 旅行ガイド, 建築, 信州, 御開帳, PDF
+```
+
+#### 購入者向けメッセージ
+```
+ご購入ありがとうございます。
+
+PDFをダウンロードして、スマホ・タブレット・PCでお読みいただけます。
+
+【おでかけの前に】
+本書の料金・開館時間・公開状況は制作時点(2026年4月の拝観料改定を反映)のものです。
+変動する可能性がありますので、善光寺の公式サイトで最新情報をご確認ください。
+https://www.zenkoji.jp/meguru/sanpai/
+
+次回の御開帳は2027年4月4日〜6月19日の予定です。
+
+【シリーズについて】
+「日本の名刹ガイド」は、一寺一冊で日本各地の名刹を訪ねるデジタルガイドシリーズです。
+第一作に選んだのは、特定の宗派を持たないという間口の広さで、1400年近く
+「一生に一度は」と言われ続けてきた信濃の名刹・善光寺です。
+今後も他の寺社を順次制作していきます。よろしければまたのぞきに来てください。
+
+本書は購入者ご本人の個人利用に限ります。再配布・転載はご遠慮ください。
+```
+
+---
+
+### 商品② 英語版
+
+#### タイトル
+```
+Japan's Sacred Temples — Zenkoji
+```
+
+#### Product summary(短い要約)
+```
+A 14-page PDF guide to Zenkoji — the temple whose central Buddha nobody, not even its own priests, has ever seen.
+```
+
+#### 価格
+```
+500
+```
+「Allow 'Pay what you want'」はチェックを入れたままでよい(Vol.1・Vol.2と同じ)。
+
+#### 説明文(長い本文)
+```
+Nobody at Zenkoji has seen the temple's Buddha. Not the visitors — that's
+unremarkable — and not the priests who conduct the morning service, which
+is not.
+
+This guide takes on that absence and everything built around it: a temple
+with no sect of its own, open to anyone regardless of rank or belief; a
+pitch-dark corridor beneath the main hall where you feel your way to a lock
+said to bind you to the hidden image above; a revolving bookcase that
+credits you with reading the entire Buddhist canon in one turn; a gate
+plaque with five doves hidden in its three characters. History from the
+temple's founding to the 1847 earthquake that struck during a public
+showing, how to actually read the architecture, what to see and in what
+order, access from Tokyo, and what to eat on the way.
+
+CONTENTS — 14 pages
+· The Buddha Nobody Has Seen (introduction)
+· An image that arrived in a canal — the founding story
+· Two mountains, one building — an independent temple held jointly by two
+  head temples of different sects
+· The corridor with no light in it — the okaidan-meguri
+· Turn it, rub it, find it — the sutra repository, the gate plaque, the
+  Wet Buddha
+· The eighth of May, 1847 — the Zenkoji earthquake
+· The Particulars — getting there, admission, timing, what's nearby
+
+Includes eleven photographs.
+
+SPECIFICATIONS
+PDF / A4 / 14 pages / approx. 5.4MB
+Readable on phone, tablet and computer.
+
+PLEASE NOTE
+Admission fees and ticket types were revised on 1 April 2026; this guide
+reflects the new prices. Fees, opening hours and access arrangements are
+still subject to further change. Always check the official website before
+visiting.
+
+TERMS
+Licensed for the personal use of the purchaser.
+Redistribution, reproduction and commercial use are not permitted.
+Photographs are used under CC BY licences or a custom attribution licence,
+with sources credited in the book.
+```
+
+#### タグ
+```
+zenkoji, japanese temple, nagano, buddhism, japan travel guide, japanese history, architecture, pilgrimage, pdf guide, temple guide
+```
+
+#### 購入者向けメッセージ
+```
+Thank you for your purchase.
+
+Download the PDF and read it on your phone, tablet or computer.
+
+BEFORE YOU GO
+Admission fees and ticket types at Zenkoji were revised on 1 April 2026;
+this guide reflects the new prices, but fees, opening hours and access can
+still change. Please check the official site before visiting.
+https://www.zenkoji.jp/meguru/sanpai/
+
+The next great unveiling (gokaicho) is scheduled for 4 April to 19 June 2027.
+
+ABOUT THE SERIES
+This is the first title in a new series — Japan's Sacred Temples — one
+temple, one book, visiting Japan's great temples in turn.
+
+This book is licensed for your personal use. Please do not redistribute.
+```
+
+> 💡 その他の設定項目(Categories・購入者向けメッセージのチェック・Who can buy this item
+> など)は本ドキュメント前半の「その他の設定項目」節と同じ方針。テスト購入の手順も同様。
+> **特に善光寺は日英2商品なので、Vol.1・Vol.2と同じくファイルの取り違えに要注意。**
