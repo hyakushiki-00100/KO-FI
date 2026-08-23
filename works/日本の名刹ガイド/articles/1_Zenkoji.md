@@ -26,7 +26,7 @@ Zenkoji belongs to no school of Buddhism. It is an independent foundation held j
 
 Two schools sharing custody of one building is the sort of arrangement that normally ends in litigation. Here it ends in the morning service, held daily without exception at an hour that moves with the sunrise, near 5.30 in summer and 7.00 in winter, in which each school performs its own liturgy, back to back, with no gap between them.
 
-The absence of a sect is also the absence of a gate: men and women, any rank, no questions asked. Out of that came the phrase that fixed the place in the national imagination — *however far, go once to Zenkoji*. It helped that the Nakasendō and the Hokkoku Kaidō crossed nearby. Salvation and logistics rarely part company.
+The absence of a sect is also the absence of a gate: men and women, any rank, no questions asked. Out of that came the phrase that fixed the place in the national imagination — *however far, go once to Zenkoji*. It helped that the Hokkoku Kaidō — the highway that splits off the Nakasendō at Oiwake and runs north to the Japan Sea — went straight through the temple town on its way. Salvation and logistics rarely part company.
 
 The other proverb is better. *Drawn to Zenkoji by an ox* describes an old woman with no religion in her, whose drying cloth caught on the horn of a passing beast; she chased it, arrived here, kept a night's vigil and acquired the faith she had never wanted. The phrase is still ordinary Japanese for an accident that turns out well. The national saying about the country's great pilgrimage temple is about getting there by mistake. There is a bronze ox in the grounds, with a plaque, in case you miss it.
 
@@ -42,11 +42,11 @@ The hall above was rebuilt in 1707 after something over a dozen fires (the count
 
 ## Turn it, rub it, find it
 
-East of the gate stands the sutra repository, begun in 1754 and dedicated in 1759, fifteen and a half metres to a side and seventeen high under a hipped roof of cypress bark. Inside is an octagonal revolving bookcase three metres across, holding the 6,771 scrolls of the Buddhist canon. Push it once, clockwise, and you are credited with having read all of it.
+East of the gate stands the sutra repository, begun in 1754 and dedicated in 1759, fifteen and a half metres to a side and seventeen high under a pyramidal roof of cypress bark. Inside is an octagonal revolving bookcase three metres across, holding the 6,771 scrolls of the Buddhist canon. Push it once, clockwise, and you are credited with having read all of it.
 
 As theology, generous. As an argument about what a temple is for, it is the dark corridor again: the merit is in the doing.
 
-The rest of the visit runs the same way. Under the gate of 1750 hangs a plaque bearing the temple's three characters with five doves concealed in them, and the first character is said to resemble the face of an ox; visitors stand in the lane with their heads back, counting. In the outer hall sits Binzuru, the arhat you touch where your own body hurts, polished by several centuries of arthritic hands. Before the gate sits a bronze Enmei Jizō of some 2.7 metres, cast around 1722 and left out in the weather, which is how he came to be called the Wet Buddha. At the foot of the lane, the outer gate of 1918 carries guardians by Takamura Kōun and Yonehara Unkai that stand without props, balanced on their own centre lines.
+The rest of the visit runs the same way. High on the gate of 1750 hangs a plaque bearing the temple's three characters with five doves concealed in them, and the first character is said to resemble the face of an ox; visitors stand in the lane with their heads back, counting. In the outer hall sits Binzuru, the arhat you touch where your own body hurts, polished by several centuries of arthritic hands. Before the gate sits a bronze Enmei Jizō of some 2.7 metres, cast around 1722 and left out in the weather, which is how he came to be called the Wet Buddha. At the foot of the lane, the outer gate of 1918 carries guardians by Takamura Kōun and Yonehara Unkai that stand without props, balanced on their own centre lines.
 
 Even the paving is participatory: donated by an Edo merchant in 1714, and said to run to 7,777 stones between the entrance and the main hall. The fifty or sixty shopfronts along its two hundred metres sell prayer beads, soba and *oyaki*, the greens-filled dumpling of the province. The votive rack carries the usual five-sided tablets and also a run of Rilakkuma ones, asking for examination success and protection from misfortune. An institution that has spent fourteen hundred years not turning people away is unlikely to be troubled by a cartoon bear.
 
@@ -74,7 +74,7 @@ Come then for the crowds. Come in any other year for the temple.
 
 **How long** — An hour for the main hall and the dark corridor. Ninety minutes to two hours to add the lane and the upper storey of the gate. Two to three hours to take in the repository, the museum and the two head temples properly. The corridor draws a queue; the quietest moment is straight after the morning service.
 
-**When** — Spring for blossom on the approach, and for the airing if the year is right. Summer for the dawn service, when the walk up is cool. Autumn for red maple against the timber of the gate and repository. Winter for snow on the tiles, with the caveat that the new-year bell and first visit draw some of the largest crowds in the country.
+**When** — Spring for blossom on the approach, and for the airing if the year is right. Summer for the dawn service, when the walk up is cool. Autumn for red maple against the timber of the gate and repository. Winter for snow banked on the main hall's cypress-bark roof, with the caveat that the new-year bell and first visit draw some of the largest crowds in the country.
 
 **Nearby** — Daihongan and Daikanjin, the two head temples, both with gardens and treasure halls. Joyama Park immediately east: the oldest park in the city, some 470 cherry trees, and the Nagano Prefectural Art Museum with its Higashiyama Kaii gallery. Further out by bus, Matsushiro, an Edo castle town with Sanada holdings. Below the temple, Yawataya Isogorō has been blending its seven-spice mixture (chilli, citrus peel, sesame, sanshō, ginger, shiso and hemp seed) since 1736, and will mix you a custom ratio.
 
